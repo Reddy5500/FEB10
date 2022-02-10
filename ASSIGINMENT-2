@@ -3,3 +3,6 @@ if a<0:
     print('negative number')
 else:
     print('postive number')
+ouput
+enter a number-78
+negative number
